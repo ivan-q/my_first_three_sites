@@ -1,0 +1,7 @@
+In this project I used:
+
+normalize.css
+flexbox
+scss
+@media
+BEM
